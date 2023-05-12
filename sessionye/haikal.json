@@ -28,7 +28,7 @@
         },
         "public": {
           "type": "Buffer",
-          "data": "C4NMi/PapCzwi6CwJ4USwp3FWZeD0Ux2J3h0ApnNFDk="
+          "data" : "C4NMi/PapCzwi6CwJ4USwp3FWZeD0Ux2J3h0ApnNFDk="
         }
       },
       "signature": {
